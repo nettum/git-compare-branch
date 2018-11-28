@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ $# -ne 2 ]
 then
     printf "\nYou need to specify 2 branches to compare:\n"
